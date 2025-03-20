@@ -1,10 +1,6 @@
-# MERN-BoilerPlate
-Here is the MERN Boiler plate which consist of backend and frontend folder.
- (1) Frontend Folder :-
-   - npm run dev
-   - Build on vite
-   - Contains react hook form, react router dom, fontawsome package.
- (2) Backend Folder :-
-   - npm start
-   - Contains cors, dotenv, express, mongoose, nodemon package.
-   - Contains MVC Structure, env configuration, database configuration
+# 🚀 MERN BoilerPlate
+
+Welcome to the **MERN Boilerplate**! This project provides a clean starting point for **MERN stack** applications, with separate **frontend** and **backend** folders for easy development.
+
+## 📁 Project Structure
+
