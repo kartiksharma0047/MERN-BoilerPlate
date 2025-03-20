@@ -12,7 +12,7 @@ MERN-BoilerPlate/
 │── backend/    # Express.js backend with MongoDB
 │── README.md   # Documentation
 ```
-🎨 (1) Frontend Folder
+🎨 (1) Frontend Folder  
 📂 Located in the frontend/ folder.
 
 🚀 Getting Started
